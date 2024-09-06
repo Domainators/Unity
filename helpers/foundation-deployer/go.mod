@@ -6,8 +6,8 @@ toolchain go1.22.6
 
 require (
 	github.com/GoogleCloudPlatform/cloud-foundation-toolkit/infra/blueprint-test v0.16.1
-	github.com/gruntwork-io/terratest v0.47.0
-	github.com/hashicorp/hcl/v2 v2.21.0
+	github.com/gruntwork-io/terratest v0.47.1
+	github.com/hashicorp/hcl/v2 v2.22.0
 	github.com/mitchellh/go-testing-interface v1.14.2-0.20210821155943-2d9075ca8770
 	github.com/stretchr/testify v1.9.0
 	github.com/terraform-google-modules/terraform-example-foundation/test/integration v0.0.0-20240808135927-5f1fd0f4104a
@@ -33,7 +33,7 @@ require (
 	github.com/googleapis/gax-go/v2 v2.12.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	github.com/hashicorp/go-getter v1.7.5 // indirect
+	github.com/hashicorp/go-getter v1.7.6 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/go-safetemp v1.0.0 // indirect
 	github.com/hashicorp/go-version v1.6.0 // indirect
